@@ -1,0 +1,19 @@
+{
+  "name": "new-todos",
+  "version": "1.0.0",
+  "description": "Full Stack Todo App with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamie29w/new-todos.git"
+  },
+  "author": "jamieW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamie29w/new-todos/issues"
+  },
+  "homepage": "https://github.com/jamie29w/new-todos#readme"
+}
